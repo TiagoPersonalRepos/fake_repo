@@ -1,0 +1,66 @@
+
+ 0 -----------------
+Your branch is up to date with 'origin/main'.
+
+ 1 -----------------
+branch 'A' set up to track 'origin/A'.
+[A 491c05a] A1
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file.txt
+branch 'B' set up to track 'origin/B'.
+[B 034a21b] B1
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/A'.
+[A 5f630a8] A2
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/B'.
+branch 'C' set up to track 'origin/C'.
+[C b35321a] C1
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/B'.
+[B 7e357f8] B2
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/C'.
+
+ 4 -----------------
+branch 'F' set up to track 'origin/F'.
+[F e798040] F1
+ 1 file changed, 1 insertion(+)
+[F 7065bbb] F2
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/C'.
+[C 989ee39] C2
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/F'.
+
+ 5 -----------------
+Your branch is up to date with 'origin/C'.
+branch 'E' set up to track 'origin/E'.
+[E 90573cd] E1
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/F'.
+Auto-merging file.txt
+CONFLICT (content): Merge conflict in file.txt
+Automatic merge failed; fix conflicts and then commit the result.
+Your branch is up to date with 'origin/E'.
+[E 28b65b8] E2
+ 1 file changed, 1 insertion(+)
+
+ 6 -----------------
+Your branch is up to date with 'origin/C'.
+[C 7058f14] C3
+ 1 file changed, 1 insertion(+)
+branch 'D' set up to track 'origin/D'.
+[D 0d3877d] D1
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/C'.
+[C 6004618] C4
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/D'.
+Your branch is up to date with 'origin/F'.
+Auto-merging file.txt
+CONFLICT (content): Merge conflict in file.txt
+Automatic merge failed; fix conflicts and then commit the result.
+Your branch is up to date with 'origin/D'.
+[D db0dd68] D2
+ 1 file changed, 1 insertion(+)

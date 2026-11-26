@@ -1,0 +1,145 @@
+
+ 0 -----------------
+Your branch is up to date with 'origin/main'.
+
+ 1 -----------------
+branch 'A' set up to track 'origin/A'.
+On branch A
+Your branch is up to date with 'origin/A'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+branch 'B' set up to track 'origin/B'.
+On branch B
+Your branch is up to date with 'origin/B'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/A'.
+On branch A
+Your branch is up to date with 'origin/A'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/B'.
+branch 'C' set up to track 'origin/C'.
+On branch C
+Your branch is up to date with 'origin/C'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/B'.
+On branch B
+Your branch is up to date with 'origin/B'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/C'.
+
+ 4 -----------------
+branch 'F' set up to track 'origin/F'.
+On branch F
+Your branch is up to date with 'origin/F'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch F
+Your branch is up to date with 'origin/F'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/C'.
+On branch C
+Your branch is up to date with 'origin/C'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/F'.
+
+ 5 -----------------
+Your branch is up to date with 'origin/C'.
+branch 'E' set up to track 'origin/E'.
+On branch E
+Your branch is up to date with 'origin/E'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/F'.
+Already up to date.
+Your branch is up to date with 'origin/E'.
+On branch E
+Your branch is up to date with 'origin/E'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ 6 -----------------
+Your branch is up to date with 'origin/C'.
+On branch C
+Your branch is up to date with 'origin/C'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+branch 'D' set up to track 'origin/D'.
+On branch D
+Your branch is up to date with 'origin/D'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/C'.
+On branch C
+Your branch is up to date with 'origin/C'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/D'.
+Your branch is up to date with 'origin/F'.
+Already up to date.
+Your branch is up to date with 'origin/D'.
+On branch D
+Your branch is up to date with 'origin/D'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	fake_repo_logs.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
